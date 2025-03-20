@@ -3,19 +3,19 @@
 Le but du projet est de concevoir et réaliser un programme qui va simplifier la vie des techniciens système et réseau.  <br />
 Nous avons créer une serie de fonctions et d outils pour gerer une base de données et des fonctionnalités réseaux . <br />
 
-2) Détails des fonctionnalités
-  a.Gestion du parc
-     Consultation des données
-     Ajout de données
-     Suppression de données
-     Modification de données
-  b.Outils réseau
-     Outils pour tester une IP
-     Outils pour tester un port TCP
-     Consulter les IP actives
-     Générer un fichier.txt depuis la bdd
-  c.Installateur
-     Vérifie la présence des paquets et les installe si besoin
+2) Détails des fonctionnalités  <br />
+  a.Gestion du parc <br />
+     Consultation des données <br />
+     Ajout de données <br />
+     Suppression de données <br />
+     Modification de données <br />
+  b.Outils réseau <br />
+     Outils pour tester une IP <br />
+     Outils pour tester un port TCP <br />
+     Consulter les IP actives <br />
+     Générer un fichier.txt depuis la bdd <br />
+  c.Installateur <br />
+     Vérifie la présence des paquets et les installe si besoin <br />
 
 8) Mes réalisations - mettre des screens pour agrémenter vos propos. 
 9) Démonstration technique 

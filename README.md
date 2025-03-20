@@ -1,6 +1,8 @@
-1) Présentation générale
-Le but du projet est de concevoir et réaliser un programme qui va simplifier la vie des techniciens système et réseau.
-Nous avons créer une serie de fonctions et d outils pour gerer une base de données et des fonctionnalités réseaux .
+1) Présentation générale a <br />
+
+Le but du projet est de concevoir et réaliser un programme qui va simplifier la vie des techniciens système et réseau. a <br />
+Nous avons créer une serie de fonctions et d outils pour gerer une base de données et des fonctionnalités réseaux .a <br />
+
 2) Détails des fonctionnalités
   a.Gestion du parc
      Consultation des données

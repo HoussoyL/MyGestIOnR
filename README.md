@@ -21,4 +21,11 @@ Nous avons créer une serie de fonctions et d outils pour gerer une base de donn
      Générer un fichier.txt depuis la bdd <br/>
   c.Installateur <br/>
      Vérifie la présence des paquets et les installe si besoin <br/>
+     <img width="826" alt="image" src="https://github.com/user-attachments/assets/7ae5a53f-bfb9-4cb2-8e4c-b33b1ecf9dc2" /><br/>
+     l'installateur demande le nom et si on est client ou serveur<br/>
+     puis il verifie si on a bien les paquets necéssaires<br/>
+     et les installe si ils ne sont pas la <br/>
+
+
+     
 

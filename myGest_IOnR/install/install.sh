@@ -37,7 +37,7 @@ if [[ $mode -eq 0 ]]; then
 fi
 echo "
 ++++++++++++++  Installation de la base de donnnées +++++++++++++++++
-
+"
 mysql -e "
 CREATE DATABASE MyGest;
 CREATE USER 'LinH'@'localhost';

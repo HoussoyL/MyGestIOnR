@@ -25,7 +25,9 @@ Nous avons créer une serie de fonctions et d outils pour gerer une base de donn
    <ins>  Outils pour tester un port TCP</ins> <br/>
    Cette fonction permet de tester un port tcp <br/>
    <ins>  Consulter les IP actives</ins> <br/>
+   Cette fonction permet de voir quelles ip sont actives ou inactives <br/>
   <ins>   Générer un fichier.txt depuis la bdd</ins> <br/>
+  Cette fonction permet decrée un fichier texte répertoriant les informations de la base de données <br/>
   <ins>c.Installateur</ins> <br/>
      Vérifie la présence des paquets et les installe si besoin <br/>
      <img width="826" alt="image" src="https://github.com/user-attachments/assets/7ae5a53f-bfb9-4cb2-8e4c-b33b1ecf9dc2" /><br/>
